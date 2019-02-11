@@ -1,1 +1,23 @@
 /* All styles for your header Components live here */
+
+.header-container {
+	width: 600px;
+	display: flex;
+}
+
+.header-content {
+	padding-right: 15px;
+}
+
+.thumbnail img {
+	width: 50px;
+	padding: 20px;
+}
+
+.main-title {
+	font-weight: bold;
+}
+
+.second-title {
+	color: lightgray;
+}
