@@ -4,4 +4,8 @@
 	border: 1px solid gray;
 	color: white;
 	background-color: black;
+	font-size: 60px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
 }
