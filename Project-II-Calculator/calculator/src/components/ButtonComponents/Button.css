@@ -1,0 +1,10 @@
+button {
+	width: 100px;
+	height: 100px;
+	border: 1px solid gray;
+	display: flex;
+	background-color: white;
+}
+.red-btn {
+	background-color: brown;
+}
